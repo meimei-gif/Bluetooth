@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable-v24/button_disconnect.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable-v24/gpio_spinner_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable-v24/setting_name_color.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/button_action.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/button_text_color.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/icon_bg.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/rawdata_bg.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/rawdata_detail_bg.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/search.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/shape.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/shape_hat.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/shape_hat_grey.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/shape_hat_red.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/shape_radiobutton.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/drawable/shape_title.xml" value="0.26979166666666665" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/activity_beacon_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/activity_ble_main.xml" value="0.4" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/activity_device.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/activity_history_safety_hat.xml" value="0.16032608695652173" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/activity_main.xml" value="0.16032608695652173" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/activity_repeaterinfo.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/activity_safety_hat_info.xml" value="0.16032608695652173" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/activity_safety_helmet.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/activity_zig_bee.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/beacon_type_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/ble_activity.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/bleclient_dialog.xml" value="0.12239583333333333" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/bleclient_list_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/bleclient_list_item_characteristic.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/bleclient_list_item_descriptor.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/bleclient_page_activity.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/blescan_dialog.xml" value="0.264" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/blescan_list_item.xml" value="0.264" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/blescan_page_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/boardhatinfo.xml" value="0.16032608695652173" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/disconnect_drawer_button.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/first_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/fragment1.xml" value="0.16847826086956522" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/fragment_ble_beacon_type.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/fragment_device.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/fragment_disclaimer.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/gpio_spinner_item.xml" value="0.12239583333333333" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/input_list_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/listitem.xml" value="0.12239583333333333" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/new_repeater.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/other_device_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/re_fragment.xml" value="0.16032608695652173" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/recycler_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/setting_simple.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/setting_simple_dialog.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/setting_simple_enum_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/layout/settings_separator.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/menu/menu_hatdelete.xml" value="0.25364583333333335" />
+        <entry key="..\:/Andriod/ble_transform/app/src/main/res/xml/app_info.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/Administrator/Desktop/yyx/BLE/ble_transform/app/src/main/res/drawable-v24/rssi_icon.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/Administrator/Desktop/yyx/BLE/ble_transform/app/src/main/res/drawable/icon_bg.xml" value="0.15" />
+        <entry key="..\:/Users/Administrator/Desktop/yyx/BLE/ble_transform/app/src/main/res/drawable/rawdata_bg.xml" value="0.15" />
+        <entry key="..\:/Users/Administrator/Desktop/yyx/BLE/ble_transform/app/src/main/res/layout/activity_beacon_main.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/yyx/BLE/ble_transform/app/src/main/res/layout/blescan_dialog.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Administrator/Desktop/yyx/BLE/ble_transform/app/src/main/res/layout/blescan_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/yyx/BLE/ble_transform/app/src/main/res/layout/blescan_page_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Desktop/yyx/BLE/ble_transform/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14351851851851852" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/activity_beacon_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/activity_ble_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/activity_device.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/activity_history_safety_hat.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/activity_repeaterinfo.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/activity_safety_hat_info.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/activity_zig_bee.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/activity_zigbeeinfo.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/beacon_type_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/ble_activity.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/blescan_dialog.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/blescan_list_item.xml" value="0.264" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/blescan_page_fragment.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/boardhatinfo.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/disconnect_drawer_button.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/first_layout.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/fragment1.xml" value="0.25364583333333335" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/fragment2.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/fragment3.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/fragment4.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/fragment_ble_beacon_type.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/fragment_device.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/gpio_spinner_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/help_layout.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/input_list_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/listitem.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/new_repeater.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/other_device_list.xml" value="0.1" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/re_fragment.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/recycler_item.xml" value="0.16979166666666667" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/setting_simple.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/setting_simple_dialog.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/setting_simple_enum_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/wireless/ble_transform/app/src/main/res/layout/settings_separator.xml" value="0.19635416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

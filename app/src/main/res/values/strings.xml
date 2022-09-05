@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">兰笺设备运维</string>
+    <string name="clearhat">确定要删除所有帽子？</string>
+    <string name="clearrepeater">确定要删除所有中继器？</string>
+    <string name="clearsignal">确定要删除所有信道状态？</string>
+
+    <string name="FIND">扫描设备</string>
+    <string name="STOP_SCANNING">停止扫描</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <!-- 2022/4/16 -->
+    <string name="not_available">N/A</string>
+    <string name="config_not_supported">This device does not support the Dialog Configuration service</string>
+    <string name="config_init_failed">Configuration service initialization failure</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_service_discovery">Discovering services…</string>
+    <string name="status_element_discovery">Discovering elements…</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_reading">Reading…</string>
+    <string name="status_applying">Applying…</string>
+
+    <string name="settings_label">参数:</string>
+    <string name="waiting_for_elements">请稍等...</string>
+    <string name="no_elements_found">No elements found.</string>
+    <string name="button_apply">应用</string>
+
+    <string name="dialog_value_label">设置:</string>
+    <string name="dialog_array_value_label">设置十六进制值：</string>
+    <string name="dialog_address_value_label">设置蓝牙设备地址:</string>
+    <string name="dialog_gpio_value_label">设置 GPIO:</string>
+    <string name="dialog_value_list_label">设置数值:</string>
+    <string name="invalid_value_message">无效数据</string>
+    <string name="restore_dialog_title">恢复数据</string>
+    <string name="restore_dialog_message">是否确认撤回更改</string>
+    <string name="write_failed_message">写入失败</string>
+    <string name="read_failed_message">读取失败</string>
+
+    <string name="storage_permission_rationale">Access to the device\'s storage is required in order to load configuration XML files.</string>
+
+    <string name="device_disconnected">设备连接断开</string>
+    <string name="device_connected_time_out">设备连接超时</string>
+    <string name="no_device_set">No device set.</string>
+
+    <string name="dialog_semiconductor"></string>
+
+    <string name="drawer_configuration">Configuration</string>
+    <string name="drawer_disconnect">Disconnect</string>
+
+    <string name="button_restore">撤销</string>
+    <string name="button_refresh">刷新</string>
+    <string name="button_confrim">确认上传</string>
+    <string-array name="gpio_ports">
+        <item>Port 0</item>
+        <item>Port 1</item>
+        <item>Port 2</item>
+        <item>Port 3</item>
+        <item>Port 4</item>
+        <item>Port 5</item>
+        <item>Port 6</item>
+        <item>Port 7</item>
+        <item>Port 8</item>
+        <item>Port 9</item>
+    </string-array>
+
+    <string-array name="gpio_pins">
+        <item>Pin 0</item>
+        <item>Pin 1</item>
+        <item>Pin 2</item>
+        <item>Pin 3</item>
+        <item>Pin 4</item>
+        <item>Pin 5</item>
+        <item>Pin 6</item>
+        <item>Pin 7</item>
+        <item>Pin 8</item>
+        <item>Pin 9</item>
+        <item>Pin 10</item>
+        <item>Pin 11</item>
+        <item>Pin 12</item>
+        <item>Pin 13</item>
+        <item>Pin 14</item>
+        <item>Pin 15</item>
+        <item>Pin 16</item>
+        <item>Pin 17</item>
+        <item>Pin 18</item>
+        <item>Pin 19</item>
+        <item>Pin 20</item>
+        <item>Pin 21</item>
+        <item>Pin 22</item>
+        <item>Pin 23</item>
+        <item>Pin 24</item>
+        <item>Pin 25</item>
+        <item>Pin 26</item>
+        <item>Pin 27</item>
+        <item>Pin 28</item>
+        <item>Pin 29</item>
+        <item>Pin 30</item>
+        <item>Pin 31</item>
+        <item>Pin 32</item>
+        <item>Pin 33</item>
+        <item>Pin 34</item>
+        <item>Pin 35</item>
+        <item>Pin 36</item>
+        <item>Pin 37</item>
+        <item>Pin 38</item>
+        <item>Pin 39</item>
+        <item>Pin 40</item>
+        <item>Pin 41</item>
+        <item>Pin 42</item>
+        <item>Pin 43</item>
+        <item>Pin 44</item>
+        <item>Pin 45</item>
+        <item>Pin 46</item>
+        <item>Pin 47</item>
+        <item>Pin 48</item>
+        <item>Pin 49</item>
+        <item>Pin 50</item>
+        <item>Pin 51</item>
+        <item>Pin 52</item>
+        <item>Pin 53</item>
+        <item>Pin 54</item>
+        <item>Pin 55</item>
+        <item>Pin 56</item>
+        <item>Pin 57</item>
+        <item>Pin 58</item>
+        <item>Pin 59</item>
+        <item>Pin 60</item>
+        <item>Pin 61</item>
+        <item>Pin 62</item>
+        <item>Pin 63</item>
+    </string-array>
+
+</resources>

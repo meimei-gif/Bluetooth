@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="element" />
+    <item type="id" name="views" />
+    <item type="id" name="value" />
+    <item type="id" name="typeface" />
+</resources>

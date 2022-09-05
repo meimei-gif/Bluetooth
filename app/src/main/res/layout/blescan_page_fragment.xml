@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/mySearch"
+        android:orientation="horizontal"
+        android:layout_gravity="top">
+<!--<<<<<<< HEAD-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/edit_queryText"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_weight="9"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:hint="请输入待搜索的设备名称"/>-->
+        <AutoCompleteTextView
+            android:completionThreshold="1"
+            android:id="@+id/edit_queryText"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="6"
+            android:layout_marginLeft="5dp"
+            android:hint="请输入待搜索的设备名称"/>
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            tools:ignore="SpeakableTextPresentCheck" />
+        <Button
+            android:id="@+id/queryByNameButton"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
+            android:layout_weight="1"
+            android:text="确定"/>
+
+
+<!--=======-->
+<!--        <EditText-->
+<!--            android:id="@+id/edit_queryText"-->
+<!--            android:layout_weight="6"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:hint="请输入待搜索的设备名称"/>-->
+<!--        <Spinner-->
+<!--            android:id="@+id/spinner1"-->
+<!--            android:layout_width="50dp"-->
+<!--            android:layout_height="wrap_content"/>-->
+<!--        <Button-->
+<!--            android:id="@+id/queryByNameButton"-->
+<!--            android:layout_weight="2"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:text="确定"/>-->
+<!--&gt;>>>>>> cce7b2a8a422229b611595c78295cf213f4e1964-->
+    </LinearLayout>
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/mSwipeRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        >
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/mRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></androidx.recyclerview.widget.RecyclerView>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+</LinearLayout>

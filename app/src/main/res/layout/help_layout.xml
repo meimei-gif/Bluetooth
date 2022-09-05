@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textSize="20dp"
+
+        android:gravity="center"
+        android:text="帮助文档"
+        android:textColor="@color/colorAccent"
+        android:background="@drawable/shape"
+        />
+    <TextView
+        android:id="@+id/fstep"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:text="1.	打开软件，首先授权弹出的相应权限进入蓝牙连接界面。该界面会扫描附近有设备名称的蓝牙设备。只有点击与监控器相连的蓝牙设备，才会更新相应数据库，点击别的无关蓝牙设备，能够进入但只能浏览数据库上保留的历史数据，不会更新。"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shape_title"
+        android:textColor="@color/colorAccent"
+        />
+
+    <TextView
+        android:id="@+id/s_step"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:text="2.	点击监控器上的对应蓝牙跳转进入网络监控首页，页面右上角会显示蓝牙连接实时状态。在连接状态下数据库会保持更新。该页面有三个按钮，展示协调器，中继器，安全帽信息。"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shape_title"
+        android:textColor="@color/colorAccent"
+        />
+
+
+    <TextView
+        android:id="@+id/t_step"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:text="3.	进入协调器页面，会展示16个信道的状态，红色代表离线，灰色代表该信道未曾有数据帧发送，绿色代表在线。时间依据为一分钟。"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shape_title"
+        android:textColor="@color/colorAccent"
+        />
+    <TextView
+        android:id="@+id/f_step"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:text="4.	进入中继器界面，可以根据图标颜色判断是在线、离线还是当前图标对应ID中继器未曾启用，灰色代表当前图标对应ID中继器未曾启用，红色代表离线，绿色在线。"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shape_title"
+        android:textColor="@color/colorAccent"
+        />
+    <TextView
+        android:id="@+id/five_step"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:text="5.	进入安全帽界面，可以根据图标颜色判断是在线、离线还是当前图标没有绑定安全帽，灰色代表当前图标没有绑定安全帽，红色代表离线，绿色在线。帽子图标下方为对应mac地址。帽子离线时间依据为十分钟。删除设备：长按图标，点击删除。"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shape_title"
+        android:textColor="@color/colorAccent"
+        />
+            <TextView
+                android:id="@+id/six_step"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:text="6. 点击以HELMET为首的安全帽蓝牙设备，直接可以查看安全帽设备广播的设备信息，包括名称，id，工作状态，温度，高度，电量等相关信息，信息在进行蓝牙扫描时更新。"
+                android:gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/shape_title"
+                android:textColor="@color/colorAccent"
+                />
+            <TextView
+                android:id="@+id/seven_step"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:text="7. 网络监控主界面点击历史查询按钮，可以进入安全帽一天内历史发送数据的查询，输入MAC地址即可查询。"
+                android:gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/shape_title"
+                android:textColor="@color/colorAccent"
+                />
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

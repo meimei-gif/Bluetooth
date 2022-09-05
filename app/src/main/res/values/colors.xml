@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00b0ff</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#142533</color>
+
+    <color name="green">#4DB376</color>
+    <color name="grayLine">#D7D8D6</color>
+
+    <color name="invalid_input">@color/md_red_900</color>
+    <color name="status_bar_background">#296192</color>
+    <color name="navigation_bar_background">#347ab8</color>
+    <color name="disconnect_button">#347ab8</color>
+</resources>
